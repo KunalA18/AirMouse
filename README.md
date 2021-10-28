@@ -12,7 +12,7 @@ Control mouse without touching it! The objective of this project is to create a 
 
 ## Technologies 💻
 Project is created using:
-* Python 3.9
+* Python 3.9.6
   - Libraries used - openCV, mediapipe and mouse
 
 ## Setup 📄
