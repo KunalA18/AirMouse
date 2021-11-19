@@ -23,7 +23,7 @@ pip install opencv-python
 ```
 2. mediapipe
 ```
-pip install mediapipe
+pip install mediapipe==0.8.6.1
 ```
 3. mouse
 ```
