@@ -5,8 +5,10 @@ Control mouse without touching it! The objective of this project is to create a 
 ## Mouse controls 🖱
 * To move mouse-
   - Raise your index finger up and move 👆
-* To click-
+* To Right click-
   - Raise your index and middle finger up and touch them ✌
+* To Left click-
+  - Raise your index finger and thumb and touch them
 
 
 
