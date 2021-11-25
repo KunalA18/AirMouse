@@ -8,7 +8,7 @@ Control mouse without touching it! The objective of this project is to create a 
 * To Right click-
   - Raise your index and middle finger up and touch them ✌
 * To Left click-
-  - Raise your index finger and thumb and touch them
+  - Raise your index finger and thumb and touch them :pinching_hand:
 
 
 
