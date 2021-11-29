@@ -60,6 +60,16 @@ while(video.isOpened()):
                            10, (0, 255, 0), cv2.FILLED)
                 mouse.click()
                 time.sleep(0.2)
+        
+        # CLick when both thumb and index finger are up and distance between them is less
+        if fingers[0] == 1 and fingers[1] == 1:
+            # Finding distance between fingers
+            length, frame, line = detector.findDistance(4, 8, frame)
+            if length < 25:
+                cv2.circle(frame, (line[4], line[5]),
+                           10, (0, 255, 0), cv2.FILLED)
+                mouse.right_click()
+                time.sleep(0.2)
 
     # Frame 
     cTime = time.time()
